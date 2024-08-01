@@ -31,6 +31,3 @@ You can install the necessary packages using the `requirements.txt` file provide
 
 3. Run the Jupyter Notebook `ConEmployeeData.ipynb` to execute the data processing tasks.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
